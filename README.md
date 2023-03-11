@@ -1,5 +1,5 @@
 ## Introduction
-This code uses the TEP dataset to analyze and visualize the Fault-Free and Faulty data. The main objective is to detect any anomalies in the data using basic statistical analysis. If any variable goes out of the pre-defined limit, then the code generates an error.
+This code uses the TEP dataset to analyze and visualize the Fault-Free and Faulty data. The main objective is to detect any anomalies in the data using basic statistical analysis. If any variable goes out of the pre-defined limit, then the code generates an error. This repository is a part of [youtube playlist](https://youtu.be/iCTU-IZ6rPQ).
 
 ## Requirements
 
