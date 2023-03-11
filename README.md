@@ -46,7 +46,7 @@ In this video, we will introduce Explainable AI (XAI) and demonstrate how it can
 Average F1 score obtained from various methods on this dataset with Unsupervised Learning
 | Method                                  | F1 Score |
 |-----------------------------------------|----------|
-| Statistical Method for Anomaly Detection|          |
+| Statistical Method for Anomaly Detection|  0.6291 |
 | PCA Reconstruction-based Anomaly Detection|          |
 | Autoencoder-based Reconstruction        |          |
 | Ensemble Learning (Light Gradient Boost)|          |
