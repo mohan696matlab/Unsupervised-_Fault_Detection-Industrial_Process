@@ -47,7 +47,7 @@ Average F1 score obtained from various methods on this dataset with Unsupervised
 | Method                                  | F1 Score |
 |-----------------------------------------|----------|
 | Statistical Method for Anomaly Detection|  0.6291 |
-| PCA Reconstruction-based Anomaly Detection|          |
+| PCA Reconstruction-based Anomaly Detection|     0.4659     |
 | Autoencoder-based Reconstruction        |          |
 | Ensemble Learning (Light Gradient Boost)|          |
 | CNN, LSTM-based Next Step Prediction    |          |
