@@ -1,5 +1,5 @@
 ## Introduction
-This code uses the TEP dataset to analyze and visualize the Fault-Free and Faulty data. The main objective is to detect any anomalies in the data using basic statistical analysis. If any variable goes out of the pre-defined limit, then the code generates an error. This repository is a part of [youtube playlist](https://youtu.be/iCTU-IZ6rPQ).
+Welcome to our tutorial series on unsupervised machine learning techniques for fault detection using the Tennessee Eastman Process dataset. In this playlist, we will cover various unsupervised machine learning techniques for detecting anomalies and faults in the process. We will start with statistical methods and progress to more complex techniques such as PCA reconstruction, autoencoder-based reconstruction, ensemble learning, CNN, LSTM-based next-step prediction, Transformer-based anomaly detection, and XAI methods on autoencoders. By the end of this tutorial series, you will have a comprehensive understanding of how unsupervised machine learning can be used to detect faults in complex industrial processes. This repository is a part of [youtube playlist](https://youtu.be/iCTU-IZ6rPQ).
 
 ![alt text](/images/Youtube_thumbnail.png)
 
