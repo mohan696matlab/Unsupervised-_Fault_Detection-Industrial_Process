@@ -44,19 +44,20 @@ Video 7: XAI Method on Autoencoders
 In this video, we will introduce Explainable AI (XAI) and demonstrate how it can be used on autoencoders to explain the anomalies detected by the model. We will also discuss the importance of XAI in complex industrial processes.
 
 Average F1 score obtained from various methods on this dataset with Unsupervised Learning excluding Fau;tNumber 3 and 9
-| Method                                  | F1 Score |
-|-----------------------------------------|----------|
-| Statistical Method for Anomaly Detection|  0.679 |
-| PCA Reconstruction-based Anomaly Detection|     0.535    |
-| Autoencoder-based Reconstruction        |          |
-| Ensemble Learning (Light Gradient Boost)|          |
-| CNN, LSTM-based Next Step Prediction    |          |
-| Transformer-based Anomaly Detection     |          |
-| XAI Method on Autoencoders              |          |
+| Method                                    | F1 Score |Accuracy|
+|-----------------------------------------  |----------|----------|
+| Statistical Method for Anomaly Detection  |  0.679   |  0.787   |
+| PCA Reconstruction-based Anomaly Detection|  0.535   |  0.962   |
+| Autoencoder-based Reconstruction          |          |          |
+| Ensemble Learning (Light Gradient Boost)  |          |          |
+| CNN, LSTM-based Next Step Prediction      |          |          |
+| Transformer-based Anomaly Detection       |          |          |
+| XAI Method on Autoencoders                |          |          |
 
 ## Acknowledgements
 
  - [The TEP Dataset](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset)
  - [Blog Post on TEP process](https://keepfloyding.github.io/posts/data-explor-TEP-3/)
+ - [Research Paper on PCA based reconstruction](https://www-sciencedirect-com.ressources-electroniques.univ-lille.fr/science/article/pii/S2405896320300860)
 
 
