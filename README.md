@@ -53,7 +53,7 @@ Average F1 score (average='macro') obtained from various methods on this dataset
 |-----------------------------------------  |----------|----------|
 | Statistical Method for Anomaly Detection  |  0.679   |  0.787   |
 | PCA Reconstruction-based Anomaly Detection|  0.619   |  0.723   |
-| Autoencoder-based Reconstruction          |  0.627   |  0.696   |
+| Autoencoder-based Reconstruction          |  0.627   |  0.729   |
 | Ensemble Learning (Light Gradient Boost)  |  0.690   |  0.818   |
 | CNN, LSTM-based Next Step Prediction      |          |          |
 | Transformer-based Anomaly Detection       |          |          |
