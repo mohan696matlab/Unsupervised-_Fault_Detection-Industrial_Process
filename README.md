@@ -30,11 +30,11 @@ I realized that I made a mistake when demonstrating how to use the Pandas iloc f
 
 Video 3: Autoencoder-based Reconstruction
 
-In this video, we will introduce autoencoders and demonstrate how they can be used for anomaly detection. We will also discuss the various types of autoencoders and their applications.
+In this video, we will introduce autoencoders and demonstrate how they can be used for anomaly detection. A brief introduction of autoencoder will be followed by implementation
 
-Video 4: Ensemble Learning (Light Gradient Boost)
+Video 4: Ensemble Learning 
 
-In this video, we will introduce ensemble learning techniques and demonstrate how Light Gradient Boost can be used for anomaly detection. We will also discuss the advantages of ensemble learning over single models.
+In this video, we will introduce ensemble learning techniques and demonstrate how simple regression model can be used for anomaly detection. We will also discuss the advantages of ensemble learning over single models.
 
 Video 5: CNN, LSTM-based Next Step Prediction
 
@@ -54,7 +54,7 @@ Average F1 score (average='macro') obtained from various methods on this dataset
 | Statistical Method for Anomaly Detection  |  0.679   |  0.787   |
 | PCA Reconstruction-based Anomaly Detection|  0.619   |  0.723   |
 | Autoencoder-based Reconstruction          |  0.627   |  0.696   |
-| Ensemble Learning (Light Gradient Boost)  |          |          |
+| Ensemble Learning (Light Gradient Boost)  |  0.690   |  0.818   |
 | CNN, LSTM-based Next Step Prediction      |          |          |
 | Transformer-based Anomaly Detection       |          |          |
 | XAI Method on Autoencoders                |          |          |
