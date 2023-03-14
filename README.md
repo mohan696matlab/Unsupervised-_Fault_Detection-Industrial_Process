@@ -11,6 +11,9 @@ Welcome to our tutorial series on unsupervised machine learning techniques for f
 - seaborn
 - numpy
 - pandas
+- scikit-learn
+- tensorflow
+- keras
 
 
 ## Usage/Examples
