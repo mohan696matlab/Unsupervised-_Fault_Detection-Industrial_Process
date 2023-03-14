@@ -28,7 +28,7 @@ In this video, we will introduce the concept of Principal Component Analysis (PC
 
 I realized that I made a mistake when demonstrating how to use the Pandas iloc function. Specifically, I used the following code: df.iloc[:3], when I should have used the code df.iloc[:, 3:] instead. This error may have caused unexpected results when working with your DataFrame. To correct this mistake, please replace df.iloc[:3] with df.iloc[:, 3:] in your code. This will select all rows and all columns starting from the 4th column of your DataFrame.
 
-Video 3: Autoencoder-based Reconstruction
+Video 3: [Autoencoder-based Reconstruction](https://youtu.be/C9r0APK4Mws)
 
 In this video, we will introduce autoencoders and demonstrate how they can be used for anomaly detection. A brief introduction of autoencoder will be followed by implementation
 
