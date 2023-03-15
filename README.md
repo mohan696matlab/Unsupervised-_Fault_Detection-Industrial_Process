@@ -32,7 +32,7 @@ Video 3: [Autoencoder-based Reconstruction](https://youtu.be/C9r0APK4Mws)
 
 In this video, we will introduce autoencoders and demonstrate how they can be used for anomaly detection. A brief introduction of autoencoder will be followed by implementation
 
-Video 4: Ensemble Learning 
+Video 4: [Ensemble Learning](https://youtu.be/01LdiQIlyGo) 
 
 In this video, we will introduce ensemble learning techniques and demonstrate how simple regression model can be used for anomaly detection. We will also discuss the advantages of ensemble learning over single models.
 
