@@ -55,7 +55,7 @@ Average F1 score (average='macro') obtained from various methods on this dataset
 | PCA Reconstruction-based Anomaly Detection|  0.619   |  0.723   |
 | Autoencoder-based Reconstruction          |  0.627   |  0.729   |
 | Ensemble Learning                         |  0.690   |  0.818   |
-| CNN, LSTM-based Next Step Prediction      |          |          |
+| CNN, LSTM-based Next Step Prediction      |  0.641   |  0.771   |
 | Transformer-based Anomaly Detection       |          |          |
 | XAI Method on Autoencoders                |          |          |
 
