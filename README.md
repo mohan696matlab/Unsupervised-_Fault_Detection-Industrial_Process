@@ -36,13 +36,13 @@ Video 4: [Ensemble Learning](https://youtu.be/01LdiQIlyGo)
 
 In this video, we will introduce ensemble learning techniques and demonstrate how simple regression model can be used for anomaly detection. We will also discuss the advantages of ensemble learning over single models.
 
-Video 5: CNN, LSTM-based Next Step Prediction
+Video 5: [LSTM-based Next Step Prediction](https://youtu.be/35AqMZBqvZU) 
 
 In this video, we will introduce convolutional neural networks (CNN) and long short-term memory (LSTM) models and demonstrate how they can be used for next-step prediction in the Tennessee Eastman Process dataset. We will also discuss how this technique can be used for anomaly detection.
 
-Video 6: Transformer-based Anomaly Detection
+Video 6: K-means distance based anomaly detection
 
-In this video, we will introduce transformers and demonstrate how they can be used for anomaly detection in the Tennessee Eastman Process dataset. We will also discuss the advantages of transformer models over traditional machine learning models.
+n this video, viewers will learn about K-means distance based anomaly detection and how it can be applied to the Tennessee Eastman Process dataset. The video will explain how K-means distance is used to identify anomalies in data and discuss the advantages of using this approach over traditional machine learning models. The video will also provide a step-by-step demonstration of how to perform K-means distance based anomaly detection on the Tennessee Eastman Process dataset. 
 
 Video 7: XAI Method on Autoencoders
 
@@ -56,7 +56,7 @@ Average F1 score (average='macro') obtained from various methods on this dataset
 | Autoencoder-based Reconstruction          |  0.627   |  0.729   |
 | Ensemble Learning                         |  0.690   |  0.818   |
 | CNN, LSTM-based Next Step Prediction      |  0.579   |  0.720   |
-| Transformer-based Anomaly Detection       |          |          |
+| K means-based Anomaly Detection           |  0.612   |  0.717   |
 | XAI Method on Autoencoders                |          |          |
 
 ## Acknowledgements
