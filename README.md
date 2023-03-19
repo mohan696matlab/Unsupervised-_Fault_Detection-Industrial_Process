@@ -44,9 +44,9 @@ Video 6: K-means distance based anomaly detection
 
 n this video, viewers will learn about K-means distance based anomaly detection and how it can be applied to the Tennessee Eastman Process dataset. The video will explain how K-means distance is used to identify anomalies in data and discuss the advantages of using this approach over traditional machine learning models. The video will also provide a step-by-step demonstration of how to perform K-means distance based anomaly detection on the Tennessee Eastman Process dataset. 
 
-Video 7: XAI Method on Autoencoders
+Video 7: One Class SVM and Isolation Forest
 
-In this video, we will introduce Explainable AI (XAI) and demonstrate how it can be used on autoencoders to explain the anomalies detected by the model. We will also discuss the importance of XAI in complex industrial processes.
+In this video, we will introduce One Class SVM and Isolation Forest and demonstrate how it can be used for anomalies detection. 
 
 Average F1 score (average='macro') obtained from various methods on this dataset with Unsupervised Learning excluding Fault Number 3 and 9
 | Method                                    | F1 Score |Accuracy|
@@ -57,7 +57,8 @@ Average F1 score (average='macro') obtained from various methods on this dataset
 | Ensemble Learning                         |  0.690   |  0.818   |
 | CNN, LSTM-based Next Step Prediction      |  0.579   |  0.720   |
 | K means-based Anomaly Detection           |  0.612   |  0.717   |
-| XAI Method on Autoencoders                |          |          |
+| One Class SVM                             |          |          |
+| Isolation Forest                          |          |          |
 
 ## Acknowledgements
 
