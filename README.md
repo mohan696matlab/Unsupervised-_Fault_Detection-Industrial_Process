@@ -40,7 +40,7 @@ Video 5: [LSTM-based Next Step Prediction](https://youtu.be/35AqMZBqvZU)
 
 In this video, we will introduce convolutional neural networks (CNN) and long short-term memory (LSTM) models and demonstrate how they can be used for next-step prediction in the Tennessee Eastman Process dataset. We will also discuss how this technique can be used for anomaly detection.
 
-Video 6: K-means distance based anomaly detection
+Video 6: [K-means distance based anomaly detection](https://youtu.be/vU3uNLxTwIY)
 
 In this video, viewers will learn about K-means distance based anomaly detection and how it can be applied to the Tennessee Eastman Process dataset. The video will explain how K-means distance is used to identify anomalies in data and discuss the advantages of using this approach over traditional machine learning models. The video will also provide a step-by-step demonstration of how to perform K-means distance based anomaly detection on the Tennessee Eastman Process dataset. 
 
