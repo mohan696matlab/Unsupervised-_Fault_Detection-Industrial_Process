@@ -57,7 +57,7 @@ Average F1 score (average='macro') obtained from various methods on this dataset
 | Ensemble Learning                         |  0.690   |  0.818   |
 | CNN, LSTM-based Next Step Prediction      |  0.579   |  0.720   |
 | K means-based Anomaly Detection           |  0.612   |  0.717   |
-| One Class SVM                             |          |          |
+| One Class SVM                             |  0.635   |  0.745   |
 | Isolation Forest                          |          |          |
 
 ## Acknowledgements
