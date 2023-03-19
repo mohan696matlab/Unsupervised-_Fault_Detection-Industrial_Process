@@ -42,7 +42,7 @@ In this video, we will introduce convolutional neural networks (CNN) and long sh
 
 Video 6: K-means distance based anomaly detection
 
-n this video, viewers will learn about K-means distance based anomaly detection and how it can be applied to the Tennessee Eastman Process dataset. The video will explain how K-means distance is used to identify anomalies in data and discuss the advantages of using this approach over traditional machine learning models. The video will also provide a step-by-step demonstration of how to perform K-means distance based anomaly detection on the Tennessee Eastman Process dataset. 
+In this video, viewers will learn about K-means distance based anomaly detection and how it can be applied to the Tennessee Eastman Process dataset. The video will explain how K-means distance is used to identify anomalies in data and discuss the advantages of using this approach over traditional machine learning models. The video will also provide a step-by-step demonstration of how to perform K-means distance based anomaly detection on the Tennessee Eastman Process dataset. 
 
 Video 7: One Class SVM and Isolation Forest
 
@@ -58,7 +58,7 @@ Average F1 score (average='macro') obtained from various methods on this dataset
 | CNN, LSTM-based Next Step Prediction      |  0.579   |  0.720   |
 | K means-based Anomaly Detection           |  0.612   |  0.717   |
 | One Class SVM                             |  0.635   |  0.745   |
-| Isolation Forest                          |          |          |
+| Isolation Forest                          |  0.481   |  0.579   |
 
 ## Acknowledgements
 
