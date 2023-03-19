@@ -65,5 +65,7 @@ Average F1 score (average='macro') obtained from various methods on this dataset
  - [The TEP Dataset](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset)
  - [Blog Post on TEP process](https://keepfloyding.github.io/posts/data-explor-TEP-3/)
  - [Research Paper on PCA based reconstruction](https://www-sciencedirect-com.ressources-electroniques.univ-lille.fr/science/article/pii/S2405896320300860)
+ - [Video on One Class SVM](https://youtu.be/vmE9ScCb2KY)
+ - [Video on Isolation Forest](https://youtu.be/E0M73NTg3w0)
 
 
